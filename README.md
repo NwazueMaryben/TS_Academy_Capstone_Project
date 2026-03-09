@@ -30,7 +30,7 @@ The project follows a standard machine learning workflow: <br>
 5. **Interpretation:** Analyzing features importance to understand what drives customer decisions. <br>
 
 ## Key Notebook Sections <br>
-1. **Problem Framinf and Tracking Justification** <br>
+1. **Problem Framing and Tracking Justification** <br>
 Identified the project as a Supervised Learning (Classificiation) task aimed at binary outcomes. <br>
 2. **Data Understanding & Preprocessing** <br>
 Handles the conversion of string data to numeric format (Float64) to allow for mathematical modeling. <br>
