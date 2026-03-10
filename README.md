@@ -50,8 +50,8 @@ Random Forest helped identify the most important features. <br>
 While the models achieve, there are key limitations to consider:
 
 * **Class Imbalance:** The dataset contains significantly more "Non-Churners" (74%) than "Churners" (26%). This can cause the model to be baised toward predicting that a customer will stay.
-* * **Feature Scope:** The data focuses on billing and contract types but lacks "Sentiment Data" (like customer service call logs or satisfaction surveys) which are strong predictors of churn.
-  * **Static Snapshot:** This is a "Point-in-Time" analysis. it does not account for seasonla changes or new competitor offer that might happen after the was collected. <br>
+* **Feature Scope:** The data focuses on billing and contract types but lacks "Sentiment Data" (like customer service call logs or satisfaction surveys) which are strong predictors of churn.
+* **Static Snapshot:** This is a "Point-in-Time" analysis. it does not account for seasonla changes or new competitor offer that might happen after the was collected. <br>
 
   ## Business Justification & Recommendations <br>
   Based on the **"Feature Importance"** analysis, the following strategic actions are recommended: <br>
